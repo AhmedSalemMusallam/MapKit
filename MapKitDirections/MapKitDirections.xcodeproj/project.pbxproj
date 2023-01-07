@@ -37,6 +37,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5B30E8A8296A035E00495153 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5BE7B0C12969F7F600DCC025 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5BE7B0AC2969F7F500DCC025 = {
 			isa = PBXGroup;
 			children = (
@@ -56,10 +64,10 @@
 		5BE7B0B72969F7F500DCC025 /* MapKitDirections */ = {
 			isa = PBXGroup;
 			children = (
+				5B30E8A8296A035E00495153 /* Resources */,
 				5BE7B0CE2969FBED00DCC025 /* Views */,
 				5BE7B0CD2969FBE600DCC025 /* Controllers */,
 				5BE7B0CC2969FBDF00DCC025 /* Application */,
-				5BE7B0C12969F7F600DCC025 /* Assets.xcassets */,
 				5BE7B0C62969F7F600DCC025 /* Info.plist */,
 			);
 			path = MapKitDirections;
